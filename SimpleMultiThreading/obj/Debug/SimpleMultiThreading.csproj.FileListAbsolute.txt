@@ -1,0 +1,9 @@
+E:\SoftwareDevelopment\SimpleMultiThreading\SimpleMultiThreading\bin\Debug\SimpleMultiThreading.exe.config
+E:\SoftwareDevelopment\SimpleMultiThreading\SimpleMultiThreading\bin\Debug\SimpleMultiThreading.exe
+E:\SoftwareDevelopment\SimpleMultiThreading\SimpleMultiThreading\bin\Debug\SimpleMultiThreading.pdb
+E:\SoftwareDevelopment\SimpleMultiThreading\SimpleMultiThreading\obj\Debug\SimpleMultiThreading.csprojResolveAssemblyReference.cache
+E:\SoftwareDevelopment\SimpleMultiThreading\SimpleMultiThreading\obj\Debug\SimpleMultiThreading.MultiThreading.resources
+E:\SoftwareDevelopment\SimpleMultiThreading\SimpleMultiThreading\obj\Debug\SimpleMultiThreading.Properties.Resources.resources
+E:\SoftwareDevelopment\SimpleMultiThreading\SimpleMultiThreading\obj\Debug\SimpleMultiThreading.csproj.GenerateResource.Cache
+E:\SoftwareDevelopment\SimpleMultiThreading\SimpleMultiThreading\obj\Debug\SimpleMultiThreading.exe
+E:\SoftwareDevelopment\SimpleMultiThreading\SimpleMultiThreading\obj\Debug\SimpleMultiThreading.pdb
